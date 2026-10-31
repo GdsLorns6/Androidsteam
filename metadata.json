@@ -1,0 +1,6 @@
+{
+  "name": "Steam Manifest Downloader",
+  "description": "Download, inspect and manage Steam game manifests, depots, .lua/.st files, and chunk data with fast resume and game library management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
